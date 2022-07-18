@@ -1,0 +1,4 @@
+从 GitHub 和 Gitee 上拉代码下来后 设置当前的 name 和 email
+git config --local user.name "AJJackGIS"
+git config --local user.email "kafei.aojie2012@foxmail.com"
+git config --global http.sslVerify "false"
